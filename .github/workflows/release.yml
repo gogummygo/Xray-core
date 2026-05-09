@@ -130,6 +130,7 @@ jobs:
             goarch: mips64le
           - goos: linux
             goarch: mipsle
+            gomips: softfloat
           - goos: linux
             goarch: mips
           # END MIPS
